@@ -1,0 +1,9 @@
+.wrap {
+    display:flex;
+    flex-direction:column;
+    background-color:red;
+}
+
+.flex-v{
+    flex:1;
+}
